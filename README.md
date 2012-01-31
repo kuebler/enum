@@ -16,5 +16,5 @@ Works on DIMACS files whose first comment line contains the number of free varia
 
 is used for &exist; x4, x5. x1 &or; x2 &or; x3 &or; x4 &or; x5. The QE approach is inspired by [Brauer, King, *Kriener: Existential Quantification as Incremental SAT*, CAV 2011][2].
 
-[1] http://fmv.jku.at/picosat/
-[2] http://embedded.rwth-aachen.de/lib/exe/fetch.php?media=bib:bkk11a.pdf
+[1]: http://fmv.jku.at/picosat/
+[2]: http://embedded.rwth-aachen.de/lib/exe/fetch.php?media=bib:bkk11a.pdf
